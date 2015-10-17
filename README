@@ -1,0 +1,11 @@
+####BOILERMAKE IV CLARITY PARTNERS
+
+Displaying correlations to crime in Chicago
+
+Contents
+--------
+FICT_ARREST_DATA.csv	CSV File containing Fictional Arrest Records
+FICT_VICTIM_DATA.csv	CSV File containing Fiction Victim Records
+classes.py		Contains Classes for POIs and Incidents
+
+
